@@ -6,5 +6,5 @@ A VHDL parser using PetitParser
 Metacello new
    baseline: 'VHDLParser';
    repository: 'github://lxsang/VHDLParser';
-   load.
+   load:#default.
 ```
