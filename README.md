@@ -9,7 +9,7 @@ Metacello new
    load:#default.
 ```
 
-## Usnage
+## Usage
 ```smalltalk
 VHDLAdapter  parseVHDL: '/path/to/your/vhdl_file.vhd'.
 ```
