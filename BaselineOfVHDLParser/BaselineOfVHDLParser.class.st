@@ -12,6 +12,6 @@ BaselineOfVHDLParser >> baseline: spec [
     	with: [  spec repository: 'github://moosetechnology/PetitParser/src'].
 		spec
 			package: 'VHDLParser';
-			group: 'default' with: #('PetitParser')
+			group: 'default' with: #('PetitParser' 'VHDLParser')
 ]
 ]
