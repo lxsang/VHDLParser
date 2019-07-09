@@ -11,5 +11,5 @@ Metacello new
 
 ## Usnage
 ```smalltalk
-VHDLAdapter  parseVHDL: '/home/mrsang/com_fpga_fx2.vhd'.
+VHDLAdapter  parseVHDL: '/path/to/your/vhdl_file.vhd'.
 ```
